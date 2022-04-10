@@ -20,6 +20,9 @@ Deliver Steve a brief analysis to compare the stock performance between 2017 and
 ## ***Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.***
 <!The analysis is well described with screenshots and code (4 pt).¡>
 
+![This is an image](VBA_Challenge_2017.png)
+
+
 ## ***Summary: In a summary statement, address the following questions.***
 
 ### **What are the advantages or disadvantages of refactoring code?**
