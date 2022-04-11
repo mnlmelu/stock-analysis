@@ -136,8 +136,6 @@ Deliver Steve a brief analysis to compare the stock performance between 2017 and
   - Improve an internal structure of a previous code.
   - Debug the code in order to find errors or unnecessary parts.
   - If the source code works correctly and is clear (preferably with comments), it should be quick to end the final refactored code.
-  
-  Refactoring consists of improving the internal structure of an existing program's source code, while preserving its external behavior. The noun “refactoring” refers to one particular behavior-preserving transformation, such as “Extract Method” or “Introduce Parameter.”
 
 - Disadvantages
   - It is needed to take in mind that even if we improve the internal structure of the code, we need to preserve the actions of the code. In other words, improve internally - same actions externally.
